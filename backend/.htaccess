@@ -1,0 +1,8 @@
+<Files "logs.txt">  
+  Require all denied
+</Files>
+<Files "cybersecurityfiles.txt">  
+  Require all denied
+</Files>
+
+ ServerSignature Off
