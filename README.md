@@ -1,6 +1,7 @@
  
 # frontend folder:
 In this folder you will find the chrome extension code. you need only to add it in the extensions. 
+<br/>
 Note: you need to change the value in info.txt.
 ---------------------
 # backend folder:
